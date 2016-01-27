@@ -1,6 +1,6 @@
 # Hexgame
 
-Projet réalisé dans le cadre du module de programmation orienté objet en C++.
-Utilisation de la bibliothèque SFML 1.6.
+Projet réalisé dans le cadre du module de programmation Java.
+Utilisation du modèle MVC.
 
-Semestre 2
+Semestre 3
