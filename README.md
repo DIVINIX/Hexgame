@@ -11,4 +11,6 @@ Les joueurs possèdent des pions à leur couleur qu'ils disposent tour à tour s
 *	Développement du jeu de hex avec le langage Java
 *	Utilisation d’un algorithme récursif dans le but de rechercher le joueur gagnant
 
-### Environnement : Java, IntelliJ
+## Environnement : 
+
+Java, IntelliJ
